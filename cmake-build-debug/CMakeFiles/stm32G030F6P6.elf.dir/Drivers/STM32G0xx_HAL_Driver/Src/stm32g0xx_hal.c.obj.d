@@ -1,0 +1,37 @@
+CMakeFiles/stm32G030F6P6.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj: \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal.c \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Core\Inc/stm32g0xx_hal_conf.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_rcc.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_def.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Device\ST\STM32G0xx\Include/stm32g0xx.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Device\ST\STM32G0xx\Include/stm32g030xx.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Include/core_cm0plus.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_default_types.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\features.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_newlib_version.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_stdint.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Include/cmsis_version.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Include/cmsis_compiler.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Include/cmsis_gcc.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Include/mpu_armv7.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\CMSIS\Device\ST\STM32G0xx\Include/system_stm32g0xx.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_ll_rcc.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_rcc_ex.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_gpio.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_gpio_ex.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_dma.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_ll_dma.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_ll_dmamux.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_dma_ex.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_cortex.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_exti.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_flash.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_flash_ex.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_pwr.h \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Drivers\STM32G0xx_HAL_Driver\Inc/stm32g0xx_hal_pwr_ex.h

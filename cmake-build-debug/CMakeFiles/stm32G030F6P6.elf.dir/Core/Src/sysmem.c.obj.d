@@ -1,0 +1,20 @@
+CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/sysmem.c.obj: \
+ D:\WorkSpace\CLion_stm32\stm32G030F6P6\Core\Src\sysmem.c \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\errno.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\errno.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\reent.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_ansi.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\newlib.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_newlib_version.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\config.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\ieeefp.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\features.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_types.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_types.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_default_types.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\lock.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
+ d:\software\gcc-arm-none-eabi-10.3-2021.10-win32(1)\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_stdint.h

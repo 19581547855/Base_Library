@@ -1,0 +1,245 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:228 (message)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      The target system is: Generic - 1 - 
+      The host system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      d:/software/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: d:/software/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
+      exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+      collect2.exe: error: ld returned 1 exit status
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+      
+      The C compiler identification is GNU, found in:
+        D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      d:/software/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: d:/software/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
+      exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+      collect2.exe: error: ld returned 1 exit status
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+      
+      The CXX compiler identification is GNU, found in:
+        D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1131 (message)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:17 (project)"
+    message: |
+      Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+      arm-none-eabi-gcc.exe (GNU Arm Embedded Toolchain 10.3-2021.10) 10.3.1 20210824 (release)
+      Copyright (C) 2020 Free Software Foundation, Inc.
+      This is free software; see the source for copying conditions.  There is NO
+      warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:17 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7s122z"
+      binary: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7s122z"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7s122z'
+        
+        Run Build Command(s): "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 D:/SoftWare/MinGW/bin/mingw32-make.exe -f Makefile cmTC_666eb/fast
+        D:/SoftWare/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_666eb.dir\\build.make CMakeFiles/cmTC_666eb.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7s122z'
+        Building C object CMakeFiles/cmTC_666eb.dir/CMakeCCompilerABI.c.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_666eb.dir\\CMakeCCompilerABI.c.obj -c "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        'D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32' 不是内部或外部命令，也不是可运行的程序
+        或批处理文件。
+        CMakeFiles\\cmTC_666eb.dir\\build.make:76: recipe for target 'CMakeFiles/cmTC_666eb.dir/CMakeCCompilerABI.c.obj' failed
+        mingw32-make.exe[1]: *** [CMakeFiles/cmTC_666eb.dir/CMakeCCompilerABI.c.obj] Error 1
+        mingw32-make.exe[1]: Leaving directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7s122z'
+        Makefile:126: recipe for target 'cmTC_666eb/fast' failed
+        mingw32-make.exe: *** [cmTC_666eb/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:17 (project)"
+    checks:
+      - "Check for working C compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe"
+    directories:
+      source: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xatt5m"
+      binary: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xatt5m"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xatt5m'
+        
+        Run Build Command(s): "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 D:/SoftWare/MinGW/bin/mingw32-make.exe -f Makefile cmTC_4a645/fast
+        D:/SoftWare/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4a645.dir\\build.make CMakeFiles/cmTC_4a645.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xatt5m'
+        Building C object CMakeFiles/cmTC_4a645.dir/testCCompiler.c.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_4a645.dir\\testCCompiler.c.obj -c D:\\WorkSpace\\CLion_stm32\\stm32G030F6P6\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-xatt5m\\testCCompiler.c
+        Linking C static library libcmTC_4a645.a
+        "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_4a645.dir\\cmake_clean_target.cmake
+        "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4a645.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_4a645.a CMakeFiles/cmTC_4a645.dir/testCCompiler.c.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_4a645.a
+        mingw32-make.exe[1]: Leaving directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xatt5m'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:17 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iwqa3g"
+      binary: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iwqa3g"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iwqa3g'
+        
+        Run Build Command(s): "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 D:/SoftWare/MinGW/bin/mingw32-make.exe -f Makefile cmTC_94b71/fast
+        D:/SoftWare/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_94b71.dir\\build.make CMakeFiles/cmTC_94b71.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iwqa3g'
+        Building CXX object CMakeFiles/cmTC_94b71.dir/CMakeCXXCompilerABI.cpp.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_94b71.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        'D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32' 不是内部或外部命令，也不是可运行的程序
+        或批处理文件。
+        CMakeFiles\\cmTC_94b71.dir\\build.make:76: recipe for target 'CMakeFiles/cmTC_94b71.dir/CMakeCXXCompilerABI.cpp.obj' failed
+        mingw32-make.exe[1]: *** [CMakeFiles/cmTC_94b71.dir/CMakeCXXCompilerABI.cpp.obj] Error 1
+        mingw32-make.exe[1]: Leaving directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-iwqa3g'
+        Makefile:126: recipe for target 'cmTC_94b71/fast' failed
+        mingw32-make.exe: *** [cmTC_94b71/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:49 (try_compile)"
+      - "CMakeLists.txt:17 (project)"
+    checks:
+      - "Check for working CXX compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe"
+    directories:
+      source: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zoxnos"
+      binary: "D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zoxnos"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zoxnos'
+        
+        Run Build Command(s): "D:/SoftWare/CLion 2024.1.2/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 D:/SoftWare/MinGW/bin/mingw32-make.exe -f Makefile cmTC_830ab/fast
+        D:/SoftWare/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_830ab.dir\\build.make CMakeFiles/cmTC_830ab.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zoxnos'
+        Building CXX object CMakeFiles/cmTC_830ab.dir/testCXXCompiler.cxx.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always -o CMakeFiles\\cmTC_830ab.dir\\testCXXCompiler.cxx.obj -c D:\\WorkSpace\\CLion_stm32\\stm32G030F6P6\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-zoxnos\\testCXXCompiler.cxx
+        Linking CXX static library libcmTC_830ab.a
+        "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_830ab.dir\\cmake_clean_target.cmake
+        "D:\\SoftWare\\CLion 2024.1.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_830ab.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_830ab.a CMakeFiles/cmTC_830ab.dir/testCXXCompiler.cxx.obj
+        D:\\SoftWare\\gcc-arm-none-eabi-10.3-2021.10-win32(1)\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_830ab.a
+        mingw32-make.exe[1]: Leaving directory 'D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zoxnos'
+        
+      exitCode: 0
+...

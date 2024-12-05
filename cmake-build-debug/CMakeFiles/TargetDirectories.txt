@@ -1,0 +1,3 @@
+D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/stm32G030F6P6.elf.dir
+D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
