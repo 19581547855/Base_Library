@@ -96,6 +96,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Inc/UserCode.h">
+			<Option target="stm32G030F6P6.elf"/>
+		</Unit>
 		<Unit filename="D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Inc/gpio.h">
 			<Option target="stm32G030F6P6.elf"/>
 		</Unit>
@@ -106,6 +109,9 @@
 			<Option target="stm32G030F6P6.elf"/>
 		</Unit>
 		<Unit filename="D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Inc/stm32g0xx_it.h">
+			<Option target="stm32G030F6P6.elf"/>
+		</Unit>
+		<Unit filename="D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/UserCode.c">
 			<Option target="stm32G030F6P6.elf"/>
 		</Unit>
 		<Unit filename="D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/gpio.c">

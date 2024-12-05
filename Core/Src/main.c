@@ -65,7 +65,7 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
-    uint8_t  test[8][128]={0};
+
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/

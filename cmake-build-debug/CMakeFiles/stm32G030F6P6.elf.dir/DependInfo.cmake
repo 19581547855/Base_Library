@@ -30,6 +30,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/UserCode.c" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.obj" "gcc" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.obj.d"
   "D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/gpio.c" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/gpio.c.obj.d"
   "D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/main.c" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/main.c.obj.d"
   "D:/WorkSpace/CLion_stm32/stm32G030F6P6/Core/Src/stm32g0xx_hal_msp.c" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj" "gcc" "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj.d"

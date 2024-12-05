@@ -8,23 +8,7 @@ CMake Deprecation Warning:
   use the cmake-file-api(7) to view CMake-generated project build trees.
 
 
--- The C compiler identification is GNU 10.3.1
--- The CXX compiler identification is GNU 10.3.1
--- The ASM compiler identification is GNU
--- Found assembler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - failed
--- Check for working C compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe
--- Check for working C compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe - works
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - failed
--- Check for working CXX compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe
--- Check for working CXX compiler: D:/SoftWare/gcc-arm-none-eabi-10.3-2021.10-win32(1)/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe - works
--- Detecting CXX compile features
--- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (1.6s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/WorkSpace/CLion_stm32/stm32G030F6P6/cmake-build-debug

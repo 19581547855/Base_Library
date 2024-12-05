@@ -128,6 +128,30 @@ stm32G030F6P6.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32G030F6P6.elf.dir\build.make CMakeFiles/stm32G030F6P6.elf.dir/build
 .PHONY : stm32G030F6P6.elf/fast
 
+Core/Src/UserCode.obj: Core/Src/UserCode.c.obj
+.PHONY : Core/Src/UserCode.obj
+
+# target to build an object file
+Core/Src/UserCode.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32G030F6P6.elf.dir\build.make CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.obj
+.PHONY : Core/Src/UserCode.c.obj
+
+Core/Src/UserCode.i: Core/Src/UserCode.c.i
+.PHONY : Core/Src/UserCode.i
+
+# target to preprocess a source file
+Core/Src/UserCode.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32G030F6P6.elf.dir\build.make CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.i
+.PHONY : Core/Src/UserCode.c.i
+
+Core/Src/UserCode.s: Core/Src/UserCode.c.s
+.PHONY : Core/Src/UserCode.s
+
+# target to generate assembly for a file
+Core/Src/UserCode.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32G030F6P6.elf.dir\build.make CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.s
+.PHONY : Core/Src/UserCode.c.s
+
 Core/Src/gpio.obj: Core/Src/gpio.c.obj
 .PHONY : Core/Src/gpio.obj
 
@@ -625,6 +649,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... stm32G030F6P6.elf
+	@echo ... Core/Src/UserCode.obj
+	@echo ... Core/Src/UserCode.i
+	@echo ... Core/Src/UserCode.s
 	@echo ... Core/Src/gpio.obj
 	@echo ... Core/Src/gpio.i
 	@echo ... Core/Src/gpio.s

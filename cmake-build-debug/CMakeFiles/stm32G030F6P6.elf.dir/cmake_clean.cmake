@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.obj"
+  "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/UserCode.c.obj.d"
   "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/gpio.c.obj"
   "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/gpio.c.obj.d"
   "CMakeFiles/stm32G030F6P6.elf.dir/Core/Src/main.c.obj"
